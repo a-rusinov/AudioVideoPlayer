@@ -1,0 +1,15 @@
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe.config
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.pdb
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csprojAssemblyReference.cache
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.Form1.resources
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.Properties.Resources.resources
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.GenerateResource.cache
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CoreCompileInputs.cache
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.exe
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.pdb
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.dll
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CopyComplete
