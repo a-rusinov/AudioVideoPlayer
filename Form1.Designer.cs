@@ -47,6 +47,7 @@
             // 
             // pnlVideo
             // 
+            this.pnlVideo.ImeMode = System.Windows.Forms.ImeMode.HangulFull;
             this.pnlVideo.Location = new System.Drawing.Point(0, 0);
             this.pnlVideo.Name = "pnlVideo";
             this.pnlVideo.Size = new System.Drawing.Size(504, 339);
