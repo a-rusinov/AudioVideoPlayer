@@ -25,13 +25,26 @@ namespace AudioVideoPlayer
 
         private Video video;
         private string[] videoPaths;
-        private string folderPath = @"D:\Cloud\YandexDisk\Видео";
+        //private string folderPath = @"D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Видео";
+        private string folderPath; // = folderBrowserDialog1.SelectedPath;
+
         private int selectedIndex = 0;
         private Size formSize;
         private Size pnlSize;
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
+            this.Text = "AudioVideo Player - Demo";
+
+            lblVideoPosition.Text = "";
+            lblVideo.Text = "";
+
+
+            folderBrowserDialog1.ShowDialog();
+            folderBrowserDialog1.Description = "Выберите расположение видеофайлов ";
+            folderPath = folderBrowserDialog1.SelectedPath;
+
             formSize = new Size(this.Width, this.Height);
             pnlSize = new Size(pnlVideo.Width, pnlVideo.Height);
 
@@ -56,18 +69,21 @@ namespace AudioVideoPlayer
                 video.Stop();
                 video.Dispose();
             }
-            catch { }
+                //catch (Exception Ex)
+                finally
+            {
 
-            int index = lstVideos.SelectedIndex;
-            selectedIndex = index;
-            video = new Video(videoPaths[index], false);
-            video.Owner = pnlVideo;
-            pnlVideo.Size = pnlSize;
-            video.Play();
-            tmrVideo.Enabled = true;
-            btnPlayPause.Text = "Пауза";
-            video.Ending += Video_Ending;
-            lblVideo.Text = lstVideos.Text;
+                int index = lstVideos.SelectedIndex;
+                selectedIndex = index;
+                video = new Video(videoPaths[index], false);
+                video.Owner = pnlVideo;
+                pnlVideo.Size = pnlSize;
+                video.Play();
+                tmrVideo.Enabled = true;
+                btnPlayPause.Text = "Пауза";
+                video.Ending += Video_Ending;
+                lblVideo.Text = lstVideos.Text;
+            }
         }
 
         private void Video_Ending(object sender, EventArgs e)
@@ -214,6 +230,13 @@ namespace AudioVideoPlayer
         private void trackVolume_Scroll(object sender, EventArgs e)
         {
             video.Audio.Volume = trackVolume.Value;
+        }
+
+        private void Button1_Click_1(object sender, EventArgs e)
+        {
+            folderBrowserDialog1.Description = "Выберите расположение видеофайлов ";
+            folderBrowserDialog1.ShowDialog();
+            folderPath = folderBrowserDialog1.SelectedPath;
         }
     }
     }

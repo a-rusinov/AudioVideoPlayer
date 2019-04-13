@@ -13,3 +13,31 @@ D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Mic
 D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
 D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
 D:\Cloud\OneDrive\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CopyComplete
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe.config
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.pdb
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.dll
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csprojAssemblyReference.cache
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.Form1.resources
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.Properties.Resources.resources
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.GenerateResource.cache
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CoreCompileInputs.cache
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CopyComplete
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.exe
+D:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.pdb
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe.config
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.pdb
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csprojAssemblyReference.cache
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.Form1.resources
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.Properties.Resources.resources
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.GenerateResource.cache
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CoreCompileInputs.cache
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CopyComplete
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.exe
+C:\Cloud\OneDrive - ИП Антонов Антон Владимирович\Sources\GitHub\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.pdb

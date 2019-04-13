@@ -40,6 +40,8 @@
             this.lblVideoPosition = new System.Windows.Forms.Label();
             this.trackVolume = new System.Windows.Forms.TrackBar();
             this.lstVideos = new System.Windows.Forms.ListBox();
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.trackVolume)).BeginInit();
             this.SuspendLayout();
             // 
@@ -133,11 +135,22 @@
             this.lstVideos.Size = new System.Drawing.Size(504, 69);
             this.lstVideos.TabIndex = 30;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(112, 498);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 39);
+            this.button1.TabIndex = 31;
+            this.button1.Text = "Выбор Папки";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.Button1_Click_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(507, 533);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lstVideos);
             this.Controls.Add(this.trackVolume);
             this.Controls.Add(this.btnVolume);
@@ -171,6 +184,8 @@
         private System.Windows.Forms.Label lblVideoPosition;
         private System.Windows.Forms.TrackBar trackVolume;
         private System.Windows.Forms.ListBox lstVideos;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
+        private System.Windows.Forms.Button button1;
     }
 }
 
